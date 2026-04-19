@@ -17,7 +17,7 @@ class Point {
         System.out.println("Point: (" + x + ", " + y + ")");
     }
 }
-public class Main {
+public class pr8 {
     public static void main(String[] args) {
         Point p1 = new Point();
         p1.display();
