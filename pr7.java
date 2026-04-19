@@ -14,7 +14,7 @@ class Employee {
         System.out.println("Salary: " + employeeSalary);
     }
 }
-public class Main {
+public class pr7 {
     public static void main(String[] args) {
         Employee e = new Employee();
         e.readEmployeeData();
