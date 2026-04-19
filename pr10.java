@@ -18,7 +18,7 @@ class BankAccount {
         interest_rate = rate;
     }
 }
-public class Main {
+public class pr10 {
     public static void main(String[] args) {
         BankAccount ac1 = new BankAccount("Bansi", 10000);
         BankAccount ac2 = new BankAccount("Amit", 20000);
