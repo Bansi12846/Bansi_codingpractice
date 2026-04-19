@@ -21,7 +21,7 @@ class College {
         }
     }
 }
-public class Main {
+public class pr11 {
     public static void main(String[] args) {
         College c = new College("SSASIT");
         College.Admission a = c.new Admission();
