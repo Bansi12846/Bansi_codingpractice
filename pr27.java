@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main {
+public class pr27 {
     public static void main(String[] args) {
         FileWriter fw = null;
         BufferedReader br = null;
